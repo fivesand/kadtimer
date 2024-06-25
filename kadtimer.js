@@ -73,6 +73,7 @@
 #KadTimer {
 	padding:10px;
 	width:320px;
+	color:#fff;
 	position:fixed;
 	top:300px;
 	left:400px;
@@ -89,7 +90,7 @@
 }
 #KadTimerIcon {
 	margin-right:10px;
-	margin-bottom:60px;
+	margin-bottom:70px;
 	width:64px;
 	height:64px;
 	border-radius:7px;
