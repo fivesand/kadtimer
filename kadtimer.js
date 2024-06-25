@@ -3,7 +3,9 @@
 // @version     1.0
 // @updateURL   https://github.com/fivesand/kadtimer
 // @author      fivemilliononly
-// @match       *://neopets.com/*
+// @description Kadoatery Time Keeping
+// @match       *://www.neopets.com/*
+// @icon        https://www.google.com/s2/favicons?sz=64&domain=neopets.com
 // @grant       GM.setValue
 // @grant       GM.getValue
 // ==/UserScript==
